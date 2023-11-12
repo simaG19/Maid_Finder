@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="740px" height="306px" viewBox="0 0 1440 506" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hero-background</title>
+    <defs>
+        <path d="M0,0 L1440,0 L1440,368 L1434.5226,370.744713 C1253.1942,460.865103 1015.02,505.925297 720,505.925297 C422,505.925297 182,459.950198 0,368 L0,368 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Getwork-Homepage" transform="translate(0.000000, -110.000000)">
+            <g id="Hero" transform="translate(-204.000000, -39.000000)">
+                <g id="hero-background" transform="translate(204.000000, 149.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#AEE2DF" xlink:href="#path-1"></use>
+                    <g id="HeroImageSimpleShiny_4_adjusted" mask="url(#mask-2)">
+                        <g transform="translate(-1.000000, -27.000000)">
+                            <g id="Layer_2_1_" opacity="0.8" transform="translate(0.000000, 0.400000)">
+                                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="0" y="2.2759572e-14" width="1441" height="559.6"></rect>
+                            </g>
+                            <g id="Group">
+                                <g id="Layer_2_3_" opacity="0.87" fill="#AEE2DF" fill-rule="nonzero">
+                                    <rect id="Rectangle" x="0" y="0" width="1441.2" height="560"></rect>
+                                </g>
+                                <g id="Group">
+                                    <rect id="Rectangle" x="218.2" y="128" width="1046.4" height="306.9"></rect>
+                                    <path d="M218.2,413 C277.6,412.3 342.2,430.8 392.2,398.8 C442.3,366.8 456.3,302 478.1,246.7 C498.8,194.2 520,141.5 516,85.2 C513.9,55.7 505.6,28.1 494.4,1.4 C465.8,0 475.1,0 452.7,0 C402.6,0 402.6,0 328.5,0 C258.3,0 203.2,0 134.5,0 C74.5,0 50.6,0 0,0 C0,23.6 0,33.4 0,107.5 C0,181.6 0,203.4 0,272 C0,312.3 0,331.4 0,368.8 C11.8,382.3 25.2,394.1 41.5,402.8 C94.6,431.3 158.1,413.7 218.2,413" id="Path" fill="#AEE2DF" fill-rule="nonzero"></path>
+                                    <path d="M971.1,560 C966.5,537.7 963.6,515.1 964.6,491.7 C967.1,429.4 972.7,364.2 1009.7,314 C1047.9,262 1109.5,235 1169.9,212.3 C1234.2,188.1 1302.2,162.9 1369.1,178.9 C1394.7,185 1418.9,195.4 1441.3,209.1 L1440,560 L971.1,560 Z" id="Path" fill="#D9FEFC" fill-rule="nonzero" opacity="0.2"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="70px" viewBox="0 0 73 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Magnifier</title>
+    <g id="Content-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="How-We-Do-It-with-Icon-Edits" transform="translate(-178.000000, -1311.000000)">
+            <g id="Verified-Jobs" transform="translate(180.000000, 1313.000000)">
+                <g id="Magnifier" transform="translate(0.000000, -0.000000)">
+                    <g id="Group-4" transform="translate(5.000000, 4.000000)" stroke="#9FE4E0" stroke-width="7">
+                        <circle id="Oval" cx="23.4615385" cy="23.4615385" r="23.4615385"></circle>
+                        <line x1="41.0576923" y1="41.0576923" x2="62.1730769" y2="59.8269231" id="Line-2" stroke-linecap="round"></line>
+                    </g>
+                    <g id="Group-4-Copy" transform="translate(-0.000000, -0.000000)" stroke="#000000" stroke-width="3">
+                        <circle id="Oval" cx="23.4615385" cy="23.4615385" r="23.4615385"></circle>
+                        <line x1="41.0576923" y1="41.0576923" x2="62.1730769" y2="59.8269231" id="Line-2" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

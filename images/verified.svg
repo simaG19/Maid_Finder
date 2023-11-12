@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="75px" viewBox="0 0 78 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Verified Jobs Icon</title>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Getwork-Homepage" transform="translate(-181.000000, -1410.000000)">
+            <g id="Verified-Jobs" transform="translate(180.000000, 1412.000000)">
+                <g id="Verified-Jobs-Icon" transform="translate(3.000000, 0.000000)">
+                    <rect id="Rectangle" fill="#D5DD6F" x="6" y="3" width="70" height="70" rx="35"></rect>
+                    <polyline id="Path-Copy-5" stroke="#000000" stroke-width="3" stroke-linecap="round" points="24 35.3538639 31.1771502 43 47 24"></polyline>
+                    <circle id="Oval" stroke="#000000" stroke-width="3" cx="35.5" cy="35.5" r="35.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
